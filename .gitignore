@@ -1,0 +1,15 @@
+# macOS 元数据
+.DS_Store
+._*
+
+# RStudio 项目缓存（保留 .Rproj 项目文件）
+.Rproj.user/
+
+# R 会话、历史与用户级配置
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+# R 默认生成的临时绘图文件
+Rplots.pdf

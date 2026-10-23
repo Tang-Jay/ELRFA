@@ -1,0 +1,11 @@
+group,lb,ub,DeltaG,ELAL,n
+F,-Inf,0.8786,0.8357,Inf,591
+< 25,-Inf,0.8278,0.7542,Inf,201
+25 - 45,-Inf,0.9725,0.9159,Inf,331
+> 45,-Inf,0.7985,0.663,Inf,59
+"< 25, Caucasian",-Inf,0.7487,0.6232,Inf,68
+"< 25, African-American",-Inf,0.9234,0.8286,Inf,120
+"25 - 45, Caucasian",-Inf,1.0615,0.9729,Inf,129
+"25 - 45, African-American",-Inf,0.934,0.8583,Inf,188
+"> 45, Caucasian",-Inf,0.8034,0.6037,Inf,27
+"> 45, African-American",-Inf,0.9241,0.7307,Inf,29
